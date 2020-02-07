@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,BTV World
+http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=3784263b08de7aa7b9d99ad1242dbd89ead2fd14-3bd2277578608ab4f691d3d32598795f-1581100856-1581090056
+#EXTINF:0,ATN Bangla
+http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=3179aed0599c2125ef4c6e08300600d42ca0480e-628d8bf8d732b1a6be71ed302cb995f3-1581100978-1581090178
+#EXTINF:0,ATN News
+http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=08a9f2b2c7daf03aebfaa5e261f84fbcd7913ac5-b5b223c8ad87bf060c54a1812f47bd68-1581101097-1581090297
