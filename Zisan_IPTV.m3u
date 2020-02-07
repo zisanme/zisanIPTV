@@ -20,3 +20,27 @@ http://bdiptv.net:8080/BanglaTV/tracks-v1a1/mono.m3u8?token=f04847448f3f61f0f85e
 http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=408432254aef95e2e7e8e9c042fca5d25f69c490-3e809cb7337488e591a71a3cf882a265-1581102263-1581091463
 #EXTINF:0,CHANNEL I
 http://bdiptv.net:8080/ChannelI/tracks-v1a1/mono.m3u8?token=c42e0cf588d096c2a9ef5030a26863260ac2c937-fc60008114a1241b604ffc3616d4c085-1581102287-1581091487
+#EXTINF:0,DBC 247 NEWS
+http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8?token=2f9341d2ede3339a0569f18d50fcab1b33da62a8-c998476c29b3d475c1cde0f12a9475d9-1581102515-1581091715
+#EXTINF:0,CHANNEL 9
+http://bdiptv.net:8080/Channel9/tracks-v1a1/mono.m3u8?token=7675acd79b0c243bfc2a523b0a3e2cf795437efa-c87a7a184d868a6eac5c16dd608fc24a-1581102554-1581091754
+#EXTINF:0,DIPTO TV
+http://bdiptv.net:8080/DeeptoTV/tracks-v1a1/mono.m3u8?token=370a5161802a1af4bb040c8176bb2544d8d540e7-9a65ea639d54cb7e707cf57cf5dc2b53-1581102580-1581091780
+#EXTINF:0,EKATTOR TV 71
+http://bdiptv.net:8080/EkattorTV/tracks-v1a1/mono.m3u8?token=1bd1bf7f1b79ec700494f28356b3214a7e64a8fb-82505840fbf93cf98fa801828e1a70a9-1581102608-1581091808
+#EXTINF:0,ANONDO TV
+http://bdiptv.net:8080/AnandaTv/tracks-v1a1/mono.m3u8?token=9a47e1173b7d1d10adb3e823a0cbd15efe59fcf4-7114810afbd56000c1158be183d86725-1581102638-1581091838
+#EXTINF:0,GAZI TV GTV
+http://bdiptv.net:8080/GaziTV/tracks-v1a1/mono.m3u8?token=edd6a9099abc1b6fb0c4a6d803f7c69f6763ae45-c4abb32b45cb4f310fc233759b005f75-1581102661-1581091861
+#EXTINF:0,INDEPENDENT TV
+http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=8700a4ea6f77cccda16844c957c6515f43d15093-8a0c8394509cd39e0edb9ff8dde54b6b-1581102694-1581091894
+#EXTINF:0,JAMUNA TV
+http://bdiptv.net:8080/JamunaTV/tracks-v1a1/mono.m3u8?token=07a7892b9fa65accd2243cedfb119025a8f21f43-abd3a1e62537dd00b62de270aaf559a1-1581102729-1581091929
+#EXTINF:0,NAGORIK TV
+http://bdiptv.net:8080/NagorikTV/tracks-v1a1/mono.m3u8?token=48f5433c07c7827132b411e4d7402d48ac97541e-012ea3a8f8f2b5e5ced8a63acd362573-1581102752-1581091952
+#EXTINF:0,MASRANGGA TV
+http://bdiptv.net:8080/Maasranga/tracks-v1a1/mono.m3u8?token=9c990422ad53a9196c9adc84973b2c91a4283d3f-3f37c9db8ead06d7451bacf58c6acb91-1581102784-1581091984
+#EXTINF:0,MOHONA TV
+http://bdiptv.net:8080/MohonaTV/tracks-v1a1/mono.m3u8?token=7da6566cc44a914eb78d0a1dec93ed7783fbc760-06075e62ef879106c5d6866c11c99d8f-1581102808-1581092008
+#EXTINF:0,MY TV
+http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=e20bc91b40d483670ba53032bc32cff6702c6daa-dab19663a4a
