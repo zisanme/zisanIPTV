@@ -44,3 +44,14 @@ http://bdiptv.net:8080/Maasranga/tracks-v1a1/mono.m3u8?token=9c990422ad53a9196c9
 http://bdiptv.net:8080/MohonaTV/tracks-v1a1/mono.m3u8?token=7da6566cc44a914eb78d0a1dec93ed7783fbc760-06075e62ef879106c5d6866c11c99d8f-1581102808-1581092008
 #EXTINF:0,MY TV
 http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=e20bc91b40d483670ba53032bc32cff6702c6daa-dab19663a4a
+#EXTINF:0,NEWS 24
+http://bdiptv.net:8080/News24/tracks-v1a1/mono.m3u8?token=6a2bc76751f491a6d42a50b7a65ff01644d2a795-8c896c5d5d30b3aff61cda46e29bd906-1581103570-1581092770
+#EXTINF:0,N TV
+http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8?token=a39d7544d3e10505f71a0cff9493731cf4bf73d1-08acdf37b8c38ee2a7fa31d96ada1f3c-1581103599-1581092799
+#EXTINF:0,R TV
+http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8?token=ef7829bb245c504c941b61e31cc2ea35d0533473-e21088d72b82372cf03ad6ee6d779add-1581103628-1581092828
+#EXTINF:0,SA TV
+http://bdiptv.net:8080/SATV/tracks-v1a1/mono.m3u8?token=78421094951def5bebfbe8cdee9f6cf986b1f49c-b3e495d5ceae5f0da85c0e633b6e78bd-1581103663-1581092863
+#EXTINF:0,GAAN BANGLA GB
+http://bdiptv.net:8080/GaanBangla/tracks-v1a1/mono.m3u8?token=59c130040f442e3f9234da11b668da0a15bc3273-5a1e4d89f1fb57a91eff2d6a8f9540ac-1581103687-1581092887
+
