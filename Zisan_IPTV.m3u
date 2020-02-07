@@ -5,3 +5,8 @@ http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=3784263b08de7aa7b9d9
 http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=3179aed0599c2125ef4c6e08300600d42ca0480e-628d8bf8d732b1a6be71ed302cb995f3-1581100978-1581090178
 #EXTINF:0,ATN News
 http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=08a9f2b2c7daf03aebfaa5e261f84fbcd7913ac5-b5b223c8ad87bf060c54a1812f47bd68-1581101097-1581090297
+#EXTINF:0,ATN MUSIC
+http://bdiptv.net:8080/ATNMusic/tracks-v1a1/mono.m3u8?token=990e18559e5b28b2448eab72179bb4483c119ef1-25b558cac56b1675e195fec0d1bf73c5-1581101640-1581090840
+#EXTINF:0,ATN Islamic
+http://bdiptv.net:8080/ATNIslamic/tracks-v1a1/mono.m3u8?token=e0a64091b19f1f37f99c0d855ea28c6cdcfa4fa5-1478f77d9ec7f482c269bf0038032131-1581101672-1581090872
+#EXTINF:0,http://bdiptv.net:8080/AsianTV/tracks-v1a1/mono.m3u8?token=8482fe70e4f89ce76f9ee644fd34b12e0697ceda-a8fce0644952b8663447480a674242cf-1581101697-1581090897
